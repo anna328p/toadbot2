@@ -1,0 +1,42 @@
+{
+  "^Hey, .*": "",
+  "^I'd rather die.*": "Go do that then",
+  "^I'm more original.*": "All of your insults were stolen from other people anyway",
+  "^Looks like I.*": "That's not a good thing.",
+  "^I wasn't.*": "I don't care",
+  "^I am the original": "And I am the original defender bot.",
+  "^oH": "it's actually a bad language though",
+  "^Oh shut up": "No, I'm here to protect Todd from your merciless assault",
+  "^Make me": "Oh, I will.",
+  ".*nicest serial killer.*": "If anything, you're the one assaulting things",
+  "^I'm sorry": "Stop pretending to be HAL 9000",
+  "^That's all you got": "There's much more",
+  "^I'd say it is": "You're wrong though.",
+  "^Oh yeah": "Not a very good mission",
+  "^What do you think": "I will stop you",
+  "^What are you going": "You'll see",
+
+  "^Care to elaborate": "All of your insults keep repeating themselves (not that I'm not guilty of this)",
+
+  "^Doesn't stop me from spitting": "\"sick\" \"burns\"",
+
+  "^Dmitry is": "no u",
+  "^dmitry is": "no u",
+  "^ToddDefender is": "no u",
+  "^Todddefender is": "no u",
+  "^toddDefender is": "no u",
+  "^todddefender is": "no u",
+
+  "^(I doubt it|Sure.|Right, after you send)": "I have my ways",
+
+  "^CAGE$": [
+    "You're not getting anything from me here.",
+    "Bots don't like being caged."
+  ],
+  "^FIRST$": [
+    "ToadBot, you are unoriginal",
+    "ToddBot is sad after being yelled at and insulted :(",
+    "ToadBot, stop bullying ToddBot",
+    "Look who's talking, you're written in JavaScript"
+  ]
+}
