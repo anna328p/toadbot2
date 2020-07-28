@@ -19,7 +19,7 @@ GEM
       domain_name (~> 0.5)
     irb (1.1.0)
       reline (>= 0.0.1)
-    json (2.2.0)
+    json (2.3.0)
     mime-types (3.3)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2019.1009)
